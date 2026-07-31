@@ -34,8 +34,8 @@ lfric_core:
     ref: e600baba0520e02140f5b060d5cad6a2372fc707
 
 moci:
-    source: git@github.com:MetOffice/moci.git
-    ref: 2026.07.1
+    source: https://github.com/harry-shepherd/hshep-lfric_core.git
+    ref: fd518c1e667819011041831d16ca236e29cd7716
 
 SimSys_Scripts:
     source: git@github.com:MetOffice/SimSys_Scripts.git
