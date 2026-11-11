@@ -30,8 +30,8 @@ lfric_apps:
     ref:
 
 lfric_core:
-    source: git@github.com:MetOffice/lfric_core.git
-    ref: e600baba0520e02140f5b060d5cad6a2372fc707
+    source: git@github.com:svadams/lfric_core.git
+    ref: main-xios3adopt
 
 moci:
     source: https://github.com/harry-shepherd/moci.git
